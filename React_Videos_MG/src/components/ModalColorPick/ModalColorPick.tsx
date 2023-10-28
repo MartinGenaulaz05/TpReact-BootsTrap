@@ -4,7 +4,7 @@ import { Button, Modal, Form } from "react-bootstrap";
 type MyModalProps = {
   show: boolean;
   onHide: () => void;
-  handleColorChange: (color: String) => void;
+  handleColorChange: (color: string) => void;
 }
 
 const ModalColorPick = ({ show, onHide, handleColorChange }: MyModalProps) => {
