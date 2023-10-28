@@ -16,7 +16,7 @@ const CauroselHome = () => {
       <img 
         className='d-block w-100' 
         style={{maxHeight:"500px", objectFit:'cover'}}
-        src='./src/assets/images/pantaloneCarrusel.jpg' alt='cargando'/>
+        src='/src/assets/images/pantaloneCarrusel.jpg' alt='cargando'/>
       <Carousel.Caption>
         <h3>Tienda de Ropa</h3>
         <p>Pantalones</p>
