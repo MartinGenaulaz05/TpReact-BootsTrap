@@ -13,7 +13,7 @@ const AboutUs = () => {
       </p>
       <div style={{ display: 'flex', justifyContent: 'center', boxSizing: 'border-box' }}>
         <Card style={{ width: '18rem', margin: '50px' , backgroundColor:"#DCBB9B"}}>
-          <Card.Img variant="top" src="./src/assets/images/pantalon.jpg" alt='cargando' style={{ maxHeight: "300px", minHeight: "100px" }} />
+          <Card.Img variant="top" src="https://falabella.scene7.com/is/image/FalabellaPE/881087451_1?wid=1004&hei=1500&crop=248,0,1004,1500&qlt=70" alt='cargando' style={{ maxHeight: "300px", minHeight: "100px" }} />
           <Card.Body>
             <Card.Title>Pantalon</Card.Title>
             <Card.Text>
