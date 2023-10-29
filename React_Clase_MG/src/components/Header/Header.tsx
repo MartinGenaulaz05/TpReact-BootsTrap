@@ -10,7 +10,7 @@ import { useNavigate } from 'react-router-dom';
   return (
     <Navbar expand="lg" style={{backgroundColor:'grey', padding:'20px'}}>
       <Container>
-        <Navbar.Brand onClick={() => navigate ('/')}><img src='./src/assets/images/ave-fenix-concepto-logotipo-logotipo-de-phoenix-de-lujo-vector-logo-bird-logo-creativas-de-pajaro-mitologico-un-ave-unica-ave-mag.jpg' style={{height: "40px", width:"40px", marginRight:"10px"}}/>React-Vite-TypeScript</Navbar.Brand>
+        <Navbar.Brand onClick={() => navigate ('/')}><img src='https://as2.ftcdn.net/v2/jpg/05/78/32/05/1000_F_578320583_SUBIDYMRmFXO2Bi3Z9knrvpCbarRDR8u.webp' style={{height: "40px", width:"40px", marginRight:"10px"}}/>React-Vite-TypeScript</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
