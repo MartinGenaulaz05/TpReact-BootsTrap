@@ -16,7 +16,7 @@ const CauroselHome = () => {
       <img 
         className='d-block w-100' 
         style={{maxHeight:"500px", objectFit:'cover'}}
-        src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-premium%2Fpantalones-cortos-jeans-estante-tienda-ropa-moda-estantes-tienda_9518756.htm&psig=AOvVaw0cvZwYLYHJ8zkQ4BThdHMK&ust=1698624968930000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDH-ID-mYIDFQAAAAAdAAAAABAE' alt='cargando'/>
+        src='./src/assets/images/pantaloneCarrusel.jpg' alt='cargando'/>
       <Carousel.Caption>
         <h3>Tienda de Ropa</h3>
         <p>Pantalones</p>
