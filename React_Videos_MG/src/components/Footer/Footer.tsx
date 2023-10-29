@@ -14,7 +14,7 @@ const Footer = () => {
           <a href="/" className="d-flex align-items-center p-0 text-dark">
             <img
               alt="logo"
-              src="/src/assets/images/ave-fenix-concepto-logotipo-logotipo-de-phoenix-de-lujo-vector-logo-bird-logo-creativas-de-pajaro-mitologico-un-ave-unica-ave-mag.jpg"
+              src="https://as2.ftcdn.net/v2/jpg/05/78/32/05/1000_F_578320583_SUBIDYMRmFXO2Bi3Z9knrvpCbarRDR8u.webp"
               width="30px"
             />
             <span className="ms-4 h5 mb-0 font-weight-bold">React-Vite-TypeScript</span>
