@@ -26,7 +26,7 @@ const CauroselHome = () => {
       <img 
         className='d-block w-100' 
         style={{maxHeight:"500px", objectFit:'cover'}}
-        src='/src/assets/images/tienda-ropa-tienda-ropa-perchas-tienda-boutique-moderna_1150-8886.jpg' alt='cargando'/>
+        src='https://img.freepik.com/fotos-premium/tienda-moda-presenta-ropa-perchas-que-incorporan-estetica-boutique-moderna_896558-6197.jpg?w=900' alt='cargando'/>
       <Carousel.Caption>
         <h3>Tienda de Ropa</h3>
         <p>
