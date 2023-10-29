@@ -16,7 +16,7 @@ const CauroselHome = () => {
       <img 
         className='d-block w-100' 
         style={{maxHeight:"500px", objectFit:'cover'}}
-        src='/src/assets/images/pantaloneCarrusel.jpg' alt='cargando'/>
+        src='https://img.freepik.com/fotos-premium/pantalones-cortos-jeans-estante-tienda-ropa-moda-estantes-tienda_130265-4797.jpg?w=996' alt='cargando'/>
       <Carousel.Caption>
         <h3>Tienda de Ropa</h3>
         <p>Pantalones</p>
