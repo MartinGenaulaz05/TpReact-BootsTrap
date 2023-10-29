@@ -6,7 +6,7 @@ const CauroselHome = () => {
       <img 
       className='d-block w-100' 
       style={{maxHeight:"500px", objectFit:'cover'}}
-      src='/src/assets/images/ropa-segunda-mano-usada-barata-1200x640.jpg.jpg' alt='cargando'/>
+      src='https://www.tuexperto.com/wp-content/uploads/2020/06/ropa-segunda-mano-usada-barata-1080x720.jpg.webp' alt='cargando'/>
       <Carousel.Caption>
         <h3>Tienda de Ropa</h3>
         <p>Buzos</p>
